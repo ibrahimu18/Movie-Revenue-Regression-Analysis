@@ -4,6 +4,6 @@ This project applies various different regression techniques (Linear, Robust, Ri
 
 ## Future Steps
 
-- Apply variance stabilizing transformation to the response variable to stabilize variance and improve model validity
+- Apply variance stabilizing transformation to the response to stabilize variance and improve model validity
 - Implement Polynomial Regression
 - Add Neural Network Model
