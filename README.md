@@ -1,6 +1,6 @@
 # Movie-Revenue-Regression-Analysis
 
-This project applies various different regression techniques (Linear, Robust, Ridge, Lasso, Elastic Net) to predict box office revenue from the TDMB (The Movie Database) dataset.
+This project applies various different regression techniques (Linear, Robust, Ridge, Lasso, Elastic Net) to predict box office revenue from the TMDB (The Movie Database) dataset.
 
 ## Future Steps
 
